@@ -1,4 +1,8 @@
-## Hi there 👋
+<div>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktiaji13&layout=compact&langs_count=10&border_color=ffffff&theme=codeSTACKr"/>
+  </p>
+</div>
 
 <!--
 **muktiaji13/muktiaji13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
