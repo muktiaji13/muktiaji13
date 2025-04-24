@@ -3,7 +3,9 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktiaji13&layout=compact&langs_count=10&border_color=ffffff&theme=codeSTACKr"/>
   </p>
   <p align="center">
-   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stat-topaz.vercel.app?user=muktiaji13&theme=dark&border_radius=4&locale=id" alt="GitHub Streak" /></a>
+   <a href="https://git.io/streak-stats">
+     <img src="https://github-readme-streak-stat-topaz.vercel.app?user=muktiaji13&theme=dark&border_radius=4&locale=id" alt="GitHub Streak" />
+   </a>
   </p>
 </div>
 
