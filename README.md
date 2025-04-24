@@ -2,6 +2,11 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktiaji13&layout=compact&langs_count=10&border_color=ffffff&theme=codeSTACKr"/>
   </p>
+  <p align="center">
+   <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=rhynarukami&theme=codeSTACKr"/>
+   </a>
+  </p>
 </div>
 
 <!--
