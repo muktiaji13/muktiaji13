@@ -9,16 +9,19 @@ I'm a Junior Developer who loves learning new things.
      <img src="https://github-readme-streak-stat-topaz.vercel.app?user=muktiaji13&theme=dark&border_radius=4&locale=id" alt="GitHub Streak" />
    </a>
   </p>
-<p align="center">
+ <p align="center">
   <a href="https://instagram.com/mukticuy1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://t.me/mukticuy1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
   </a>
   <a href="https://tiktok.com/@yogah_cuy" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/TikTok_Logo.svg" alt="TikTok" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" alt="TikTok" width="40" height="40"/>
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 </div>
 
