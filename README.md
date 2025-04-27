@@ -17,7 +17,7 @@ I'm a Junior Developer who loves learning new things.
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40">
   </a>
   <a href="https://twitter.com/yogah_cuy" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Ionicons_logo-tiktok.svg" alt="Twitter" width="40" height="40">
+    <img src="https://static.wikia.nocookie.net/tiktok/images/e/eb/TikTok_Logo.png/revision/latest?cb=20210816124125" alt="Twitter" width="40" height="40">
   </a>
 </p>
 <p align="center">
