@@ -11,10 +11,10 @@ I'm a Junior Developer who loves learning new things.
   </p>
  <p align="center">
   <a href="https://instagram.com/mukticuy1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="40" height="40" fill="pink"/>
   </a>
   <a href="https://t.me/mukticuy1" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Telegram" width="40" height="40" fill="blue"/>
   </a>
   <a href="https://tiktok.com/@yogah_cuy" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tiktok.svg" alt="TikTok" width="40" height="40"/>
