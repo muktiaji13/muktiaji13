@@ -1,5 +1,5 @@
-Hi I'm Mukti. 
-I'm a Junior Developer who loves learning new things.
+<strong>Hi, I'm Mukti. 
+I'm a Junior Developer who loves learning new things.</strong>
 <div>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktiaji13&layout=compact&langs_count=10&border_color=ffffff&theme=codeSTACKr"/>
