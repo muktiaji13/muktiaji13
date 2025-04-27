@@ -9,19 +9,16 @@ I'm a Junior Developer who loves learning new things.
      <img src="https://github-readme-streak-stat-topaz.vercel.app?user=muktiaji13&theme=dark&border_radius=4&locale=id" alt="GitHub Streak" />
    </a>
   </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white"/>
-  </p>
-  <p align="center">
-  <a href="https://instagram.com/mukticuy1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-ff0069?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://t.me/mukticuy1" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://tiktok.com/@yogah_cuy" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
-  </a>
+<p align="center">
+  <a href="https://instagram.com/mukticuy1" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+  </a>
+  <a href="https://t.me/mukticuy1" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
+  </a>
+  <a href="https://tiktok.com/@yogah_cuy" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/TikTok_Logo.svg" alt="TikTok" width="40" height="40"/>
+  </a>
 </p>
 </div>
 
