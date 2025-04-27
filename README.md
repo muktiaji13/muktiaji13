@@ -1,4 +1,4 @@
-Hi I'm Mukti
+Hi I'm Mukti. 
 I'm a Junior Developer who loves learning new things.
 <div>
   <p align="center">
