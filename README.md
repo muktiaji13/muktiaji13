@@ -14,7 +14,7 @@ I'm a Junior Developer who loves learning new things.
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
   </a>
   <a href="https://t.me/mukticuy1" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Telegram_2019_logo.svg" alt="Telegram" width="40" height="40">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40">
   </a>
   <a href="https://twitter.com/yogah_cuy" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" alt="Twitter" width="40" height="40">
