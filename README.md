@@ -7,6 +7,9 @@
      <img src="https://github-readme-streak-stat-topaz.vercel.app?user=muktiaji13&theme=dark&border_radius=4&locale=id" alt="GitHub Streak" />
    </a>
   </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white"/>
+  </p>
 </div>
 
 <!--
