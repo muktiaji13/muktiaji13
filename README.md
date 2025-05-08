@@ -10,7 +10,7 @@ I'm a Junior Developer who loves learning new things.</strong>
    </a>
   </p>
  <p align="center">
-  <a href="https://instagram.com/mukticuy1" target="blank">
+  <a href="https://instagram.com/mukticuy1" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40">
   </a>
   <a href="https://t.me/mukticuy1" target="_blank">
