@@ -1,6 +1,6 @@
 <strong>Hi, I'm Mukti. 
 I'm a Junior Developer who loves learning new things.</strong>
-<img
+<img align="center"
         src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Mukti;Welcome+to+my+GitHub"
             alt="Typing SVG"
         />
