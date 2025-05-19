@@ -1,10 +1,6 @@
 <strong>Hi, I'm Mukti. 
 I'm a Junior Developer who loves learning new things.</strong>
-<img align="center"
-        src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Mukti;Welcome+to+my+GitHub"
-            alt="Typing SVG"
-        />
-    </a>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Mukti;Welcome+to+my+GitHub" alt="Typing SVG"/>
 <div>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktiaji13&layout=compact&langs_count=10&border_color=ffffff&theme=codeSTACKr"/>
