@@ -7,7 +7,7 @@ I'm a Junior Developer who loves learning new things.</strong>
 <p align="center"><img src="https://profile-counter.glitch.me/{muktiaji13}/count.svg" alt="muktiaji13 :: Visitor's Count" /></p>
 <p align="center"><img src="https://count.getloli.com/get/@muktiaji13-github-readme?theme=rule34" /></p></div>
 <div>
-  <p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api?username=muktiaji13&show_icons=true&theme=codeSTACKr"></a></p>
+  <p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api?username=muktiaji13&show_icons=true&theme=codeSTACKr&border_color=ffffff"></a></p>
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktiaji13&layout=compact&langs_count=10&border_color=ffffff&theme=codeSTACKr"/>
   </p>
