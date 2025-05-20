@@ -31,7 +31,10 @@ I'm a Junior Developer who loves learning new things.</strong>
   <img src="https://img.shields.io/badge/-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white"/>
 </p>
 </div>
-
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+<p align="center"><a href="https://github.com/muktiaji13"><img src="https://github-profile-trophy.vercel.app/?username=muktiaji13"></a></p>
+</details>
 <!--
 **muktiaji13/muktiaji13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
