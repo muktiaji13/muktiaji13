@@ -3,8 +3,6 @@ I'm a Junior Developer who loves learning new things.</strong>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Mukti;Welcome+to+my+GitHub" alt="Typing SVG"/>
 </div>
-<div><h4 align="center">Visitor's Count :</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{muktiaji13}/count.svg" alt="muktiaji13 :: Visitor's Count" /></p>
 <p align="center"><img src="https://count.getloli.com/get/@muktiaji13-github-readme?theme=rule34" /></p></div>
 <div>
   <p align="center"><a href="https://github.com/nazedev"><img src="https://github-readme-stats.vercel.app/api?username=muktiaji13&show_icons=true&theme=codeSTACKr&border_color=ffffff"></a></p>
