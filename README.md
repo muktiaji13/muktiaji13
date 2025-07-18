@@ -1,5 +1,4 @@
-<strong>Hi, I'm Mukti. 
-I'm a Junior Developer who loves learning new things.</strong>
+<strong>Hi, I'm Mukti. [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm a Junior Developer who loves learning new things.</strong>
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=ShadowsIntoLightsize=50&duration=5500&color=f70787&background=FF673200&center=true&vCenter=true&lines=Hello,+I+am+Mukti;Welcome+to+my+GitHub" alt="Typing SVG"/>
 </div>
