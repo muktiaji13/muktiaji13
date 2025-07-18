@@ -6,7 +6,7 @@
 <div>
   <p align="center"><a href="https://github.com/muktiaji13"><img src="https://github-readme-stats.vercel.app/api?username=muktiaji13&show_icons=true&theme=codeSTACKr&border_color=ffffff"></a></p>
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktiaji13&layout=compact&langs_count=10&border_color=ffffff&theme=codeSTACKr"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muktiaji13&layout=compact&langs_count=10&border_color=ffffff"/>
   </p>
   <p align="center">
    <a href="https://git.io/streak-stats">
