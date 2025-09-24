@@ -35,6 +35,11 @@
   <img src="https://img.shields.io/badge/Termius-26C9FF?style=for-the-badge&logo=termius&logoColor=white"/>
   <img src="https://img.shields.io/badge/2FAS-5294E2?style=for-the-badge&logo=2fas&logoColor=white"/>
   <img src="https://img.shields.io/badge/1.1.1.1-F38020?style=for-the-badge&logo=1.1.1.1&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/-InfinityFree-2C2C2C?style=for-the-badge&logo=infinityfree&logoColor=white" alt="InfinityFree"/>
+  <img src="https://img.shields.io/badge/-Asus-000080?style=for-the-badge&logo=asus&logoColor=white" alt="Asus"/>
 </p>
 
 ---
