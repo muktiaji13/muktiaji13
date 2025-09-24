@@ -31,7 +31,12 @@
   <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black"/>
   <img src="https://img.shields.io/badge/-XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Termux-000000?style=for-the-badge&logo=termux&logoColor=white"/>
+  <!-- Badge Termux custom -->
+<a href="https://termux.dev/">
+  <img src="https://img.shields.io/badge/-Termux-000000?style=for-the-badge&logoColor=white" alt="Termux Badge"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Termux.svg/768px-Termux.svg.png?20220214141545" alt="Termux Logo" width="28" height="28" />
+</a>
+
 </p>
 
 ---
