@@ -27,10 +27,11 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black"/>
-<img src="https://img.shields.io/badge/-XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Dotenv-ECD53F?style=for-the-badge&logo=dotenv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-XML-FF6600?style=for-the-badge&logo=xml&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Termux-000000?style=for-the-badge&logo=termux&logoColor=white"/>
 </p>
 
 ---
