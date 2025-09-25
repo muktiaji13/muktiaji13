@@ -44,6 +44,13 @@
   <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+  <img src="https://img.shields.io/badge/-nvm-43853D?style=for-the-badge&logo=nvm&logoColor=white" alt="nvm"/>
+  <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn"/>
+  <img src="https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
+  <img src="https://img.shields.io/badge/-Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon"/>
+  <img src="https://img.shields.io/badge/-XAMPP-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP"/>
+
 </p>
 
 ---
